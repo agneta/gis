@@ -1,0 +1,19 @@
+{
+  "name": "@agneta/gis",
+  "version": "0.1.0",
+  "description": "Agneta Extension - GIS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agneta/gis.git"
+  },
+  "author": "Agneta Network Applications",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "geolib": "^2.0.24",
+    "lodash": "^4.17.11",
+    "request-promise": "^4.2.2",
+    "terraformer-arcgis-parser": "^1.1.0",
+    "url-join": "^4.0.0"
+  }
+}
